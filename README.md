@@ -1,2 +1,1 @@
-My first readme
-ALX school is great
+ALX school is the best
